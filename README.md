@@ -1,6 +1,10 @@
 # MatrixSideMenu
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+In this project i am using 2 UI libraries:
+1. @angular/material: "^9.2.4" (command: ng add @angular/material)
+2. @ng-bootstrap/ng-bootstrap: "^6.1.0" (command: ng add @ng-bootstrap/ng-bootstrap)
+ 
 
 ## Development server
 

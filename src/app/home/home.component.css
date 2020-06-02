@@ -1,0 +1,11 @@
+.welcome {
+    /* padding-top: 20px; */
+    text-align: center;
+}
+
+.angular-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}

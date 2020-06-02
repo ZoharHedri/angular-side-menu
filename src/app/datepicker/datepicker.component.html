@@ -1,0 +1,13 @@
+
+<div class="datepicker">
+    <h1>The Date Picker Page</h1>
+
+    <mat-form-field>
+        <mat-label style="padding: 5px;">Choose a date: </mat-label>
+        <input matInput [matDatepicker]="picker" >
+        <mat-datepicker-toggle matSuffix [for]="picker" style="font-size: larger;"></mat-datepicker-toggle>
+        <mat-datepicker #picker ></mat-datepicker>
+    </mat-form-field>
+
+    <!-- <button mat-raised-button (click)="picker.open()">Open</button> -->
+</div>

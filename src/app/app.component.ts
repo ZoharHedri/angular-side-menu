@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'matrix-side-menu';
+
+  /* figure out how to send 'onAddedContact' to 'contact' component through the route */ 
+  // onAddedContact(data: {name:string, email:string, details:string}) {
+  //   this.contactDetails.push({ data });
+  //   //send the 'data' to the server
+  //   console.log("data", data)
+  //   alert("Your details received successfully! \nThanks we will be in touch")
+  // }
 }
